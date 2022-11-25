@@ -1,2 +1,3 @@
 Estou alterando o conteudo do arquivo controle
 Aqui estou alterando novamente mais uma informação
+Agora são 16h56min estou escrevendo a hora no arquivo
