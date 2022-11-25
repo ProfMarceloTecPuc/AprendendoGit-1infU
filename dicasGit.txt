@@ -9,3 +9,5 @@ git commit -m "mensagem de commit" - informa a mensagem para fazer o commit
 git push - enviar os arquivos para o repositorio do github
 git remote add origin (cola o repositorio github) - criar a ligação remota com o repositorio
 git push --set-upstream origin master - criar o repositorio remoto master
+git reflog - verifica o historico de versionamento do git.
+git reset --hard (referencia) - reseta o ponto de versionamento.
