@@ -1,0 +1,11 @@
+git bash here - abre o prompt de comando do git
+git init - inicializa o repositorio no computador
+git status - visualiza os arquivos dentro do repositorio
+git add "nome do arquivo.extensão" - adicionar o arquivo para ser comitado (enviar para o github).
+git add . - adicionar todos os arquivos para serem comitado.
+git config --global user.email "seu e-mail do github" - criar uma identidade para ser usado no github.
+git config --global user.name "seu nome" - informar o nome do usuario para comitar no github.
+git commit -m "mensagem de commit" - informa a mensagem para fazer o commit
+git push - enviar os arquivos para o repositorio do github
+git remote add origin (cola o repositorio github) - criar a ligação remota com o repositorio
+git push --set-upstream origin master - criar o repositorio remoto master
